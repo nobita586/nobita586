@@ -1,42 +1,80 @@
-# **Project Title**  
-_A brief tagline or description of your project._
+# **Lina**  
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Add+Your+Banner+Here)  
+_A powerful and scalable project template designed for developers._  
 
-[![License](https://img.shields.io/github/license/nobita586/repo-name)](LICENSE)  
-[![Stars](https://img.shields.io/github/stars/nobita586/repo-name)](https://github.com/nobita586/repo-name/stargazers)  
-[![Forks](https://img.shields.io/github/forks/nobita586/repo-name)](https://github.com/nobita586/repo-name/network/members)  
-[![Issues](https://img.shields.io/github/issues/nobita586/repo-name)](https://github.com/nobita586/repo-name/issues)  
+![Banner](https://via.placeholder.com/1200x400.png?text=Lina+-+Your+Project+Banner)  
+
+[![License](https://img.shields.io/github/license/nobita586/Lina)](LICENSE)  
+[![Stars](https://img.shields.io/github/stars/nobita586/Lina)](https://github.com/nobita586/Lina/stargazers)  
+[![Forks](https://img.shields.io/github/forks/nobita586/Lina)](https://github.com/nobita586/Lina/network/members)  
+[![Issues](https://img.shields.io/github/issues/nobita586/Lina)](https://github.com/nobita586/Lina/issues)  
+[![Contributors](https://img.shields.io/github/contributors/nobita586/Lina)](https://github.com/nobita586/Lina/graphs/contributors)  
 
 ---
 
 ## **Table of Contents**  
-1. [About the Project](#about-the-project)  
+
+1. [About Lina](#about-lina)  
 2. [Features](#features)  
-3. [Installation](#installation)  
-4. [Usage](#usage)  
-5. [Screenshots](#screenshots)  
-6. [Roadmap](#roadmap)  
-7. [Contributing](#contributing)  
-8. [License](#license)  
-9. [Contact](#contact)  
+3. [Technologies Used](#technologies-used)  
+4. [Getting Started](#getting-started)  
+5. [Installation](#installation)  
+6. [Usage](#usage)  
+7. [Screenshots](#screenshots)  
+8. [Contributing](#contributing)  
+9. [License](#license)  
+10. [Contact](#contact)  
 
 ---
 
-## **About the Project**  
-Provide a short introduction to your project. Mention the problem it solves and why it stands out.  
+## **About Lina**  
 
-### Built With  
-- [Technology 1](https://example.com)  
-- [Technology 2](https://example.com)  
-- [Technology 3](https://example.com)  
+**Lina** is a modular, flexible, and scalable software designed to help developers kickstart their projects efficiently. It provides pre-configured modules, cutting-edge tools, and a focus on performance and usability.  
+
+**Why Lina?**  
+- 🏎️ **Performance-Driven**: Optimized for speed and scalability.  
+- 🔒 **Secure**: Built with security best practices in mind.  
+- 🛠️ **Customizable**: Modify modules to suit your project needs.  
 
 ---
 
 ## **Features**  
-- ✨ Feature 1  
-- 🚀 Feature 2  
-- 🛠️ Feature 3  
+
+- 🌐 Responsive and cross-platform compatibility.  
+- 🚀 Fast setup and configuration for new projects.  
+- 🔧 Modular architecture for easy customization.  
+- 💾 Built-in database integrations.  
+- 📦 Includes CI/CD pipeline templates.  
+
+---
+
+## **Technologies Used**  
+
+- **Frontend**:  
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+
+- **Backend**:  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
+
+- **Database**:  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+
+- **DevOps**:  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  
+
+---
+
+## **Getting Started**  
+
+### **Prerequisites**  
+
+Make sure you have the following tools installed:  
+- [Node.js](https://nodejs.org/)  
+- [Docker](https://www.docker.com/)  
+- [Git](https://git-scm.com/)  
 
 ---
 
@@ -44,4 +82,5 @@ Provide a short introduction to your project. Mention the problem it solves and 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/nobita586/repo-name.git
+   git clone https://github.com/nobita586/Lina.git
+   cd Lina
